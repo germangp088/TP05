@@ -56,7 +56,10 @@ namespace TP05
             IEnumerable<Materia> filtro2 = materias.FindAll(x => x.Cuatrimestre == 1).OrderBy(y => y.Nombre);
 
             //Armar una consulta donde se devuelva una lista de todas las notas del tipo TP:
-
+            var notas = materias
+                .SelectMany(i => i.Notas)
+                .Where(i => i.Tipo == "TP")
+                .ToList();
         }
     }
 }
