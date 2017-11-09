@@ -5,3 +5,9 @@ C:\Users\gdario\Desktop\TP05\TP05\bin\Debug\TP05.exe
 C:\Users\gdario\Desktop\TP05\TP05\bin\Debug\TP05.pdb
 C:\Users\gdario\Desktop\TP05\TP05\obj\Debug\TP05.exe
 C:\Users\gdario\Desktop\TP05\TP05\obj\Debug\TP05.pdb
+C:\Users\Alumno\Source\Repos\TP05\TP05\bin\Debug\TP05.exe.config
+C:\Users\Alumno\Source\Repos\TP05\TP05\obj\Debug\TP05.exe
+C:\Users\Alumno\Source\Repos\TP05\TP05\obj\Debug\TP05.pdb
+C:\Users\Alumno\Source\Repos\TP05\TP05\bin\Debug\TP05.exe
+C:\Users\Alumno\Source\Repos\TP05\TP05\bin\Debug\TP05.pdb
+C:\Users\Alumno\Source\Repos\TP05\TP05\obj\Debug\TP05.csprojResolveAssemblyReference.cache

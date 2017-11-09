@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TP05
 {
@@ -60,6 +58,9 @@ namespace TP05
                 .SelectMany(i => i.Notas)
                 .Where(i => i.Tipo == "TP")
                 .ToList();
+            
+            Console.WriteLine(materia1.CalcularPromedio());
+            Console.Read();
         }
     }
 }
